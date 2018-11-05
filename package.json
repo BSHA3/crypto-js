@@ -1,19 +1,19 @@
 {
-  "name": "crypto-js",
-  "title": "crypto-js",
+  "name": "crypto-js-bsha3",
+  "title": "crypto-js-bsha3",
   "description": "JavaScript library of crypto standards.",
   "version": "3.1.9-b",
-  "homepage": "http://github.com/bsha3/crypto-js",
+  "homepage": "http://github.com/bsha3/crypto-js-bsha3",
   "author": {
     "name": "Evan Vosberg",
     "url": "http://github.com/evanvosberg"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/bsha3/crypto-js.git"
+    "url": "http://github.com/bsha3/crypto-js-bsha3.git"
   },
   "bugs": {
-    "url": "http://github.com/bsha3/crypto-js/issues"
+    "url": "http://github.com/bsha3/crypto-js-bsha3/issues"
   },
   "license": "MIT",
   "scripts": {
